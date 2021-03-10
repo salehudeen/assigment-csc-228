@@ -1,0 +1,120 @@
+h2 {
+ align-items: center;
+ text-align: center;
+}
+  .banner{
+
+    position: absolute;
+    width:1350px;
+    height: 120px;
+    left: absolute;
+    top: absolute;
+    background-color: yellowgreen;
+  }
+  .nav-bar-banner
+  {
+    position: absolute;
+    text-align: center;
+    width:450px;
+    height: 20px;
+    left: 450px;
+    top: 129px;
+    background-color: green;
+  }
+  .green-line
+  {
+    position: absolute;
+    width:1350px;
+    height: 2px;
+    left: absolute;
+    top: 154px;
+    background-color: green;
+  }
+  .list-nav{
+    position: absolute;
+width: 320px;
+height: 450px;
+left:absolute;
+top: 160px;
+background-color:whitesmoke;
+border: dotted;
+border-color:green;
+  }
+  .nav-head{
+    background-color: #4CAF50;
+  border: green;
+  color: white;
+  padding: 15px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  }
+.nav-button{
+  background-color: #4CAF50;
+  border: green;
+  color: white;
+  padding: 15px 130px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.title-area
+{
+  height: 40px;
+  background-color: limegreen;
+}
+  .content-area{
+
+    position: absolute;
+width: 998px;
+height:450px;
+left: 360px;
+top: 160px;
+background-color: whitesmoke;
+
+  }
+ 
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+
+
+.form
+{
+  align-items: center;
+}
+
+
+
+
+
+
+
+
+.footer{
+  position: absolute;
+width:1350px;
+height: 45px;
+left: absolute;
+top: 615px;
+
+  background-color: antiquewhite;
+}
+.footer-info{
+ text-align: center;
+}
